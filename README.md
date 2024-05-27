@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daahyunk&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Neue+Helvetica&weight=500&duration=4000&pause=1000&color=000000&random=false&width=435&lines=HI%2C+I'M+DAHYUN+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
 **daahyunk/daahyunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
