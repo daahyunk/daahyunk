@@ -5,7 +5,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daahyunk&layout=compact&bg_color=000000)](https://github.com/csb1320/github-readme-stats)
 
-[![Seongbin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=csb1320&include_all_commits=true&show_icons=true&theme=cobalt&bg_color=000000)](https://github.com/csb1320/github-readme-stats)
-</div>
 [![Dahyun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=daahyunk&include_all_commits=true&show_icons=true&theme=cobalt&bg_color=000000)](https://github.com/daahyunk/github-readme-stats)
 </div>
