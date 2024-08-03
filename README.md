@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Dahyun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyun&include_all_commits=true&show_icons=true&theme=cobalt&bg_color=000000)](https://github.com/daahyunk/github-readme-stats)
+[![Dahyun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=daahyunk&include_all_commits=true&show_icons=true&theme=cobalt&bg_color=000000)](https://github.com/daahyunk/github-readme-stats)
 </div>
