@@ -9,3 +9,4 @@
 [![Dahyun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=daahyunk&include_all_commits=true&show_icons=true&theme=cobalt&bg_color=000000)](https://github.com/daahyunk/github-readme-stats)
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=daahyunk&theme=ocean-dark)](https://git.io/streak-stats)
