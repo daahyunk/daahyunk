@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daahyunk&layout=compact&bg_color=000000)](https://github.com/csb1320/github-readme-stats)
 
-[![Dahyun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=daahyunk&include_all_commits=true&show_icons=true&theme=cobalt&bg_color=000000)](https://github.com/daahyunk/github-readme-stats)
+[![Dahyun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=dhyunk&include_all_commits=true&show_icons=true&theme=cobalt&bg_color=000000)](https://github.com/daahyunk/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=daahyunk&theme=ocean-dark)](https://git.io/streak-stats)
 </div>
