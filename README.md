@@ -44,8 +44,12 @@
 <div align="center">
 
 
+<div align="center">
+
 <a href="https://github.com/2jun0/github-pokemon-collection">
-  <img src="https://gitpokecol.org/pokemons/daahyunk?background=plain" alt="{username}'s GitHub Pokemon Collection"/>
+  <img src="https://gitpokecol.org/pokemons/daahyunk?background=plain&width=500&height=200" alt="{username}'s GitHub Pokemon Collection"/>
 </a>
+
+</div>
 
 </div>
