@@ -4,6 +4,16 @@
 
 </div>
 
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/daahyunk?pet-id=617442943602113620"
+    width="600"
+    height="120"
+  />
+</a>
+
 <div align="center">
   
 <h2>Tech Stacks</h2>
@@ -25,5 +35,17 @@
 <h2>Contact</h2>
 <b>insta</b>. @sb.5c<br>
 <b>e-mail</b> ekgusdl0408@naver.com
+
+
+</div>
+
+<br>
+
+<div align="center">
+
+
+<a href="https://github.com/2jun0/github-pokemon-collection">
+  <img src="https://gitpokecol.org/pokemons/daahyunk?background=plain" alt="{username}'s GitHub Pokemon Collection"/>
+</a>
 
 </div>
