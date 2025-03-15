@@ -5,17 +5,3 @@
 </div>
 
 
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/daahyunk?pet-id=617442943602113620"
-    width="600"
-    height="120"
-  />
-</a>
-
-
-
-<br>
-
-
